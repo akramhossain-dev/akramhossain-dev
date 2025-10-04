@@ -1,4 +1,7 @@
-# Hi there! 👋 I'm Akram Hossain
+<!-- Title with animation added (only change requested) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Akram+Hossain;Full+Stack+Developer;Computer+Science+Student;Based+in+Dhaka%2C+Bangladesh" alt="Hi there! I'm Akram Hossain" />
+</p>
 
 **Full Stack Developer** | **Computer Science Student** | **Based in Dhaka, Bangladesh**
 
@@ -49,11 +52,11 @@ Welcome to my GitHub! I'm passionate about creating meaningful digital experienc
 
 ## 🎯 What I'm Working On
 
-- 🔭 Building full-stack web applications with modern technologies
-- 🌱 Mastering Java programming and Data Structures & Algorithms
-- 🎨 Creating intuitive UI/UX designs that enhance user experience
-- 🎮 Exploring game development as a creative outlet
-- 📈 Contributing to open-source projects
+- 🔭 Building full-stack web applications with modern technologies  
+- 🌱 Mastering Java programming and Data Structures & Algorithms  
+- 🎨 Creating intuitive UI/UX designs that enhance user experience  
+- 🎮 Exploring game development as a creative outlet  
+- 📈 Contributing to open-source projects  
 
 ## 📫 Let's Connect!
 
@@ -61,10 +64,10 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-hossain-/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkramHossain090)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akramhossain090)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akramhossain090/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801783571095)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akramhossain-dev/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akramhossain.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akramhossain.dev/)
 
 </div>
 
