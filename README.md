@@ -15,9 +15,10 @@ Welcome to my GitHub! I'm passionate about creating meaningful digital experienc
 👨‍💻 Role: Full Stack Developer & Student
 🌍 Location: Dhaka, Bangladesh
 🎓 Education: Diploma in Computer Science (Self-Taught Developer)
-🎯 Focus: Web Development, UI/UX Design, Game Development
-📚 Currently Learning: Java & Data Structures and Algorithms
-🏆 2025 Goal: Build 25+ projects & master 5-10 new technologies
+💻 Skills: Full Stack Development (JavaScript, Node.js, Next.js, Express, MongoDB)
+📚 Currently Learning: Python, Data Structures & Algorithms, Machine Learning
+🎯 2026 Goals: Build 25+ projects, master 5–10 new technologies, contribute to open-source
+⚡ Fun Fact: Love coding, football, chess, and exploring new tech
 ```
 
 ## 💼 Technical Stack
